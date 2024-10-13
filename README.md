@@ -11,7 +11,4 @@ Este projeto utiliza a biblioteca Biopython para realizar análises avançadas d
 - Visualizações gráficas: contagem de nucleotídeos, distribuição de comprimentos de sequência, massa molecular.
 - Interatividade: Entrada de sequência via widgets no Databricks.
 
-## Como Executar:
-1. Clone o repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+
